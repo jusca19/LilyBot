@@ -1,7 +1,7 @@
 """from telegram.ext import Application, CommandHandler
 
-TOKEN = "8890486963:AAFD7gzT9vZvLUBwag6GXp6l1vWXL71_cyI"
-
+import os
+TOKEN = os.environ.get("TELEGRAM_TOKEN", "8890486963:AAFD7gzT9vZvLUBwag6GXp6l1vWXL71_cyI")
 async def start(update, context):
     await update.message.reply_text("✅ Bot funcionando! Las fotos se arreglarán después.")
 
