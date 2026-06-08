@@ -1,0 +1,33 @@
+{
+  "nombre": "Lily",
+  "fecha_nacimiento": "6 de abril de 2026",
+  "edad": "2 meses",
+  "comida_favorita": "Croquetas de Pollo - Whiskas de pollo",
+  "comida_diaria": [
+    "7:00 AM - 30g de alimento seco y cambio de Agua",
+    "11:00 AM - 30g de alimento seco",
+    "15:00 PM - 30g de alimento seco",
+    "19:00 PM - 30g de alimento seco",
+    "21:00 PM - 30g de alimento seco"
+  ],
+  "horas_siesta": [
+    "10:00 AM a 11:00 PM",
+    "15:00 PM a 16:00 PM",
+    "21:00 PM a 7:00 AM"
+  ],
+  "fotos": [
+    "IMG_4294.jpg",
+    "IMG_4297.jpg",
+    "IMG_4302.jpg",
+    "IMG_4366.jpg",
+    "IMG_4370.jpg",
+    "IMG_4379.jpg"
+  ],
+  "datos_curiosos": [
+    "Puede comer solo 3 premios por día",
+    "Su juguete favorito es Flipi",
+    "No tiene permitido entrar en la habitación",
+    "Siempre sigue a Papá para que le de comida",
+    "Esta aprendiendo trucos, dar vuelta y dar la mano"
+  ]
+}
